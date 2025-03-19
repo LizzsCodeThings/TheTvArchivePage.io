@@ -1,0 +1,8 @@
+@font-face {
+    font-family: GothamSSm;
+    src: url("fonts/GothamSSm-Medium.otf") format("opentype");
+}
+
+a, a:visited, a:hover, a:active {
+  color: inherit;
+}
